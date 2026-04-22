@@ -1,0 +1,258 @@
+[2026-02-19 14:52:55] System started - New Setup Created
+[2026-02-19 14:52:55] Department 'Emergency (الطوارئ)' created.
+[2026-02-19 14:52:55] Department 'Cardiology (القلب)' created.
+[2026-02-19 14:52:55] Department 'Pediatrics (الأطفال)' created.
+[2026-02-19 14:52:55] Department 'Neurology (المخ والأعصاب)' created.
+[2026-02-19 14:52:55] Department 'Orthopedics (العظام)' created.
+[2026-02-19 14:52:55] Department 'General Surgery (الجراحة)' created.
+[2026-02-19 14:52:55] Staff 'Dina Fawzy' (ID: 5000) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Staff 'Aya Gaber' (ID: 5001) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Staff 'Ali Ibrahim' (ID: 5002) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Hassan Hassan' (ID: 1000) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Ahmed Osama' (ID: 1001) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Nour Samy' (ID: 1002) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Hassan El-Sayed' (ID: 1003) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Mona Ibrahim' (ID: 1004) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Fatma Fawzy' (ID: 1005) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Omar El-Sayed' (ID: 1006) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Hassan Gaber' (ID: 1007) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Mona Ezzat' (ID: 1008) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Mahmoud Kamal' (ID: 1009) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Youssef Adel' (ID: 1010) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Ali Osama' (ID: 1011) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Aya Adel' (ID: 1012) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Fatma Nassar' (ID: 1013) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Patient 'Aya Adel' (ID: 1014) added to Emergency (الطوارئ).
+[2026-02-19 14:52:55] Staff 'Mohamed Ezzat' (ID: 5003) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Staff 'Mahmoud Gaber' (ID: 5004) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Staff 'Dina El-Sayed' (ID: 5005) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Staff 'Nour Tarek' (ID: 5006) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Staff 'Fatma Osama' (ID: 5007) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Mohamed Kamal' (ID: 1015) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Hassan Adel' (ID: 1016) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Kareem El-Sayed' (ID: 1017) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Ahmed Hassan' (ID: 1018) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Dina Fawzy' (ID: 1019) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Youssef Ibrahim' (ID: 1020) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Ahmed Nassar' (ID: 1021) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Hassan Osama' (ID: 1022) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Omar Fawzy' (ID: 1023) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Hassan Ezzat' (ID: 1024) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Patient 'Omar El-Sayed' (ID: 1025) added to Cardiology (القلب).
+[2026-02-19 14:52:55] Staff 'Nour Kamal' (ID: 5008) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Staff 'Ahmed Ibrahim' (ID: 5009) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Staff 'Fatma Fawzy' (ID: 5010) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Staff 'Sara Adel' (ID: 5011) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Staff 'Omar El-Sayed' (ID: 5012) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Ahmed Samy' (ID: 1026) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Fatma Ezzat' (ID: 1027) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Aya Ezzat' (ID: 1028) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Nour Ezzat' (ID: 1029) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Sara Tarek' (ID: 1030) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Kareem Ezzat' (ID: 1031) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Sara Gaber' (ID: 1032) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Nour Ibrahim' (ID: 1033) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Mahmoud Hassan' (ID: 1034) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Ahmed Fawzy' (ID: 1035) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Salma Tarek' (ID: 1036) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Ahmed Ezzat' (ID: 1037) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Dina Ezzat' (ID: 1038) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Ahmed Ibrahim' (ID: 1039) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Dina Adel' (ID: 1040) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Patient 'Mahmoud Fawzy' (ID: 1041) added to Pediatrics (الأطفال).
+[2026-02-19 14:52:55] Staff 'Fatma Nassar' (ID: 5013) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Staff 'Ali Samy' (ID: 5014) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Staff 'Mahmoud Osama' (ID: 5015) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Staff 'Mahmoud Nassar' (ID: 5016) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Mona Hassan' (ID: 1042) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Aya Samy' (ID: 1043) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Youssef Gaber' (ID: 1044) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Mahmoud Adel' (ID: 1045) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Nour Adel' (ID: 1046) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Nour Ibrahim' (ID: 1047) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Sara Ibrahim' (ID: 1048) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Ahmed Fawzy' (ID: 1049) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Salma Fawzy' (ID: 1050) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Mohamed Tarek' (ID: 1051) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Dina El-Sayed' (ID: 1052) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Salma Ibrahim' (ID: 1053) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Salma Osama' (ID: 1054) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Sara Hassan' (ID: 1055) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Nour Ibrahim' (ID: 1056) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Mona Tarek' (ID: 1057) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Patient 'Mahmoud El-Sayed' (ID: 1058) added to Neurology (المخ والأعصاب).
+[2026-02-19 14:52:55] Staff 'Sara Samy' (ID: 5017) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Staff 'Nour Osama' (ID: 5018) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Staff 'Mona El-Sayed' (ID: 5019) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Dina Nassar' (ID: 1059) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Mahmoud Gaber' (ID: 1060) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Ali Gaber' (ID: 1061) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Nour Adel' (ID: 1062) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Mahmoud El-Sayed' (ID: 1063) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Omar Hassan' (ID: 1064) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Omar Ibrahim' (ID: 1065) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Sara Ezzat' (ID: 1066) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Ahmed El-Sayed' (ID: 1067) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Salma Hassan' (ID: 1068) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Ahmed Ibrahim' (ID: 1069) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Dina Nassar' (ID: 1070) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Patient 'Ahmed Kamal' (ID: 1071) added to Orthopedics (العظام).
+[2026-02-19 14:52:55] Staff 'Aya Nassar' (ID: 5020) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Staff 'Aya Ibrahim' (ID: 5021) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Staff 'Ahmed Nassar' (ID: 5022) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Staff 'Dina Hassan' (ID: 5023) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Aya Tarek' (ID: 1072) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Ali Samy' (ID: 1073) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Salma Ezzat' (ID: 1074) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Salma Ibrahim' (ID: 1075) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Mona Ezzat' (ID: 1076) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Omar El-Sayed' (ID: 1077) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Ahmed Kamal' (ID: 1078) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Salma Ezzat' (ID: 1079) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Aya El-Sayed' (ID: 1080) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Mohamed Hassan' (ID: 1081) added to General Surgery (الجراحة).
+[2026-02-19 14:52:55] Patient 'Hassan Adel' (ID: 1082) added to General Surgery (الجراحة).
+[2026-02-19 14:54:04] System started - Data Loaded
+[2026-02-19 15:15:45] System started - Data Loaded
+[2026-02-19 15:40:29] System started - Data Loaded
+[2026-02-19 15:40:29] System started - Data Loaded
+[2026-02-19 15:40:29] System started - Data Loaded
+[2026-02-19 15:40:29] System started - Data Loaded
+[2026-02-19 15:43:21] System started - Data Loaded
+[2026-02-19 15:43:21] System started - Data Loaded
+[2026-02-19 15:43:21] System started - Data Loaded
+[2026-02-19 15:43:21] System started - Data Loaded
+[2026-02-19 15:45:24] System started - Data Loaded
+[2026-02-19 15:45:24] System started - Data Loaded
+[2026-02-19 15:45:24] System started - Data Loaded
+[2026-02-19 15:45:24] System started - Data Loaded
+[2026-02-19 15:47:02] System started - Data Loaded
+[2026-02-19 15:47:02] System started - Data Loaded
+[2026-02-19 15:47:02] System started - Data Loaded
+[2026-02-19 15:47:02] System started - Data Loaded
+[2026-02-19 15:49:49] System started - Data Loaded
+[2026-02-19 15:49:49] System started - Data Loaded
+[2026-02-19 15:49:49] Staff 'Dr. Mostafa Fawzy' (ID: 5024) added to Emergency.
+[2026-02-19 15:49:49] Staff 'Nurse Mona Adel' (ID: 5025) added to Emergency.
+[2026-02-19 15:49:49] Staff 'Dr. Tarek Hegazy' (ID: 5026) added to Emergency.
+[2026-02-19 15:49:49] Staff 'Dr. Hassan El-Sayed' (ID: 5027) added to ICU.
+[2026-02-19 15:49:49] Staff 'Nurse Zainab' (ID: 5028) added to ICU.
+[2026-02-19 15:49:49] Staff 'Dr. Sara Ahmed' (ID: 5029) added to ICU.
+[2026-02-19 15:49:49] Staff 'Dr. Yehia Bakr' (ID: 5030) added to Surgery.
+[2026-02-19 15:49:49] Staff 'Dr. Salma Nour' (ID: 5031) added to Surgery.
+[2026-02-19 15:49:49] Staff 'Nurse Ibrahim' (ID: 5032) added to Surgery.
+[2026-02-19 15:49:49] Patient 'Khaled Yassin' (ID: 1083) added to Emergency.
+[2026-02-19 15:49:49] Patient 'Mariam Soliman' (ID: 1084) added to Emergency.
+[2026-02-19 15:49:49] Patient 'Youssef Ali' (ID: 1085) added to Emergency.
+[2026-02-19 15:49:49] Patient 'Ibrahim Mahmoud' (ID: 1086) added to ICU.
+[2026-02-19 15:49:49] Patient 'Fatma Ahmed' (ID: 1087) added to ICU.
+[2026-02-19 15:49:49] Patient 'Kamal Nour' (ID: 1088) added to ICU.
+[2026-02-19 15:49:49] Patient 'Adel Emam' (ID: 1089) added to Surgery.
+[2026-02-19 15:49:49] Patient 'Hanaa Mohamed' (ID: 1090) added to Surgery.
+[2026-02-19 15:49:49] Patient 'Samy Hassan' (ID: 1091) added to Surgery.
+[2026-02-19 15:49:56] System started - Data Loaded
+[2026-02-19 15:49:56] System started - Data Loaded
+[2026-02-19 15:49:56] System started - Data Loaded
+[2026-02-19 15:49:56] System started - Data Loaded
+[2026-02-19 15:51:53] System started - Data Loaded
+[2026-02-19 15:51:53] System started - Data Loaded
+[2026-02-19 15:51:53] System started - Data Loaded
+[2026-02-19 15:51:53] System started - Data Loaded
+[2026-02-19 15:53:07] System started - Data Loaded
+[2026-02-19 15:53:07] System started - Data Loaded
+[2026-02-19 15:53:07] System started - Data Loaded
+[2026-02-19 15:53:07] System started - Data Loaded
+[2026-02-19 16:09:12] System started - Data Loaded
+[2026-02-19 16:09:12] System started - Data Loaded
+[2026-02-19 16:09:12] System started - Data Loaded
+[2026-02-19 16:09:12] System started - Data Loaded
+[2026-02-19 17:21:11] System started - Data Loaded
+[2026-02-19 17:21:11] System started - Data Loaded
+[2026-02-19 17:21:11] System started - Data Loaded
+[2026-02-19 17:21:11] System started - Data Loaded
+[2026-02-19 17:21:22] Department '' created.
+[2026-02-19 17:21:26] System started - Data Loaded
+[2026-02-19 17:21:26] System started - Data Loaded
+[2026-02-19 17:21:26] System started - Data Loaded
+[2026-02-19 17:21:26] System started - Data Loaded
+[2026-02-19 17:21:37] Department '' removed.
+[2026-02-19 17:21:42] System started - Data Loaded
+[2026-02-19 17:21:42] System started - Data Loaded
+[2026-02-19 17:21:42] System started - Data Loaded
+[2026-02-19 17:21:42] System started - Data Loaded
+[2026-02-19 21:15:26] System started - Data Loaded
+[2026-02-19 21:15:26] System started - Data Loaded
+[2026-02-19 21:15:26] System started - Data Loaded
+[2026-02-19 21:15:26] System started - Data Loaded
+[2026-02-19 21:15:34] System started - Data Loaded
+[2026-02-19 21:15:34] System started - Data Loaded
+[2026-02-19 21:15:34] System started - Data Loaded
+[2026-02-19 21:15:34] System started - Data Loaded
+[2026-02-19 22:15:34] System started - Data Loaded
+[2026-02-19 22:15:51] System started - Data Loaded
+[2026-02-19 22:15:51] System started - Data Loaded
+[2026-02-19 22:15:51] System started - Data Loaded
+[2026-02-19 22:15:51] System started - Data Loaded
+[2026-02-19 22:20:37] System started - Data Loaded
+[2026-02-19 22:20:37] System started - Data Loaded
+[2026-02-19 22:20:37] System started - Data Loaded
+[2026-02-19 22:20:37] System started - Data Loaded
+[2026-02-19 22:20:57] Department 'Emergency' removed.
+[2026-02-19 22:20:59] Department 'Surgery' removed.
+[2026-02-19 22:21:10] System started - Data Loaded
+[2026-02-19 22:21:10] System started - Data Loaded
+[2026-02-19 22:21:10] System started - Data Loaded
+[2026-02-19 22:21:10] System started - Data Loaded
+[2026-02-19 22:22:07] System started - Data Loaded
+[2026-02-19 22:22:13] System started - Data Loaded
+[2026-02-19 22:22:13] System started - Data Loaded
+[2026-02-19 22:22:13] System started - Data Loaded
+[2026-02-19 22:22:13] System started - Data Loaded
+[2026-02-22 21:17:51] System started - Data Loaded
+[2026-02-22 21:17:51] System started - Data Loaded
+[2026-02-22 21:17:51] System started - Data Loaded
+[2026-02-22 21:17:51] System started - Data Loaded
+[2026-02-22 21:20:35] System started - Data Loaded
+[2026-02-22 21:20:35] System started - Data Loaded
+[2026-02-22 21:20:35] System started - Data Loaded
+[2026-02-22 21:20:35] System started - Data Loaded
+[2026-02-22 21:24:20] System started - Data Loaded
+[2026-02-22 21:24:20] System started - Data Loaded
+[2026-02-22 21:24:20] System started - Data Loaded
+[2026-02-22 21:24:20] System started - Data Loaded
+[2026-02-22 21:25:39] System started - Data Loaded
+[2026-02-23 00:36:47] System started - Data Loaded
+[2026-02-23 00:36:47] System started - Data Loaded
+[2026-02-23 00:36:47] System started - Data Loaded
+[2026-02-23 00:36:47] System started - Data Loaded
+[2026-02-23 00:42:39] System started - Data Loaded
+[2026-02-23 00:42:39] System started - Data Loaded
+[2026-02-23 00:42:39] System started - Data Loaded
+[2026-02-23 00:42:39] System started - Data Loaded
+[2026-02-23 00:46:47] System started - Data Loaded
+[2026-02-23 00:46:47] System started - Data Loaded
+[2026-02-23 00:46:47] System started - Data Loaded
+[2026-02-23 00:46:47] System started - Data Loaded
+[2026-02-23 01:03:12] System started - Data Loaded
+[2026-02-23 01:16:10] System started - Data Loaded
+[2026-02-23 01:16:10] System started - Data Loaded
+[2026-02-23 01:16:10] System started - Data Loaded
+[2026-02-23 01:16:10] System started - Data Loaded
+[2026-02-23 01:18:42] System started - Data Loaded
+[2026-02-23 01:18:42] System started - Data Loaded
+[2026-02-23 01:18:42] System started - Data Loaded
+[2026-02-23 01:18:42] System started - Data Loaded
+[2026-03-19 12:01:47] System started - Data Loaded
+[2026-03-19 12:01:47] System started - Data Loaded
+[2026-03-19 12:01:47] System started - Data Loaded
+[2026-03-19 12:01:47] System started - Data Loaded
+[2026-03-19 12:02:14] System started - Data Loaded
+[2026-03-19 12:02:14] System started - Data Loaded
+[2026-03-19 12:02:14] System started - Data Loaded
+[2026-03-19 12:02:14] System started - Data Loaded
+[2026-03-19 12:05:04] Department 'skin care' created.
+[2026-03-19 12:05:10] System started - Data Loaded
+[2026-03-19 12:05:10] System started - Data Loaded
+[2026-03-19 12:05:11] System started - Data Loaded
+[2026-03-19 12:05:11] System started - Data Loaded
+[2026-03-19 12:07:39] System started - Data Loaded

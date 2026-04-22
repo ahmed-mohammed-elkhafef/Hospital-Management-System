@@ -1,0 +1,740 @@
+{
+    "name": "Group 2",
+    "location": "Main Campus",
+    "patient_counter": 1092,
+    "staff_counter": 5033,
+    "departments": [
+        {
+            "name": "ICU",
+            "patients": [
+                {
+                    "id": 1086,
+                    "name": "Ibrahim Mahmoud",
+                    "age": 65,
+                    "medical_record": "Post-Cardiac Arrest"
+                },
+                {
+                    "id": 1087,
+                    "name": "Fatma Ahmed",
+                    "age": 58,
+                    "medical_record": "Respiratory Failure"
+                },
+                {
+                    "id": 1088,
+                    "name": "Kamal Nour",
+                    "age": 70,
+                    "medical_record": "Multi-organ Failure"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5027,
+                    "name": "Dr. Hassan El-Sayed",
+                    "age": 50,
+                    "position": "ICU Consultant"
+                },
+                {
+                    "id": 5028,
+                    "name": "Nurse Zainab",
+                    "age": 32,
+                    "position": "Critical Care Nurse"
+                },
+                {
+                    "id": 5029,
+                    "name": "Dr. Sara Ahmed",
+                    "age": 39,
+                    "position": "Intensivist"
+                }
+            ]
+        },
+        {
+            "name": "Emergency (\u0627\u0644\u0637\u0648\u0627\u0631\u0626)",
+            "patients": [
+                {
+                    "id": 1000,
+                    "name": "Hassan Hassan",
+                    "age": 24,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1001,
+                    "name": "Ahmed Osama",
+                    "age": 81,
+                    "medical_record": "Broken Arm"
+                },
+                {
+                    "id": 1002,
+                    "name": "Nour Samy",
+                    "age": 51,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1003,
+                    "name": "Hassan El-Sayed",
+                    "age": 23,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1004,
+                    "name": "Mona Ibrahim",
+                    "age": 6,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1005,
+                    "name": "Fatma Fawzy",
+                    "age": 27,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1006,
+                    "name": "Omar El-Sayed",
+                    "age": 54,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1007,
+                    "name": "Hassan Gaber",
+                    "age": 13,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1008,
+                    "name": "Mona Ezzat",
+                    "age": 71,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1009,
+                    "name": "Mahmoud Kamal",
+                    "age": 61,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1010,
+                    "name": "Youssef Adel",
+                    "age": 24,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1011,
+                    "name": "Ali Osama",
+                    "age": 6,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1012,
+                    "name": "Aya Adel",
+                    "age": 71,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1013,
+                    "name": "Fatma Nassar",
+                    "age": 74,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1014,
+                    "name": "Aya Adel",
+                    "age": 82,
+                    "medical_record": "Severe Headache"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5000,
+                    "name": "Dina Fawzy",
+                    "age": 47,
+                    "position": "Staff Nurse"
+                },
+                {
+                    "id": 5001,
+                    "name": "Aya Gaber",
+                    "age": 35,
+                    "position": "Staff Nurse"
+                },
+                {
+                    "id": 5002,
+                    "name": "Ali Ibrahim",
+                    "age": 35,
+                    "position": "Staff Nurse"
+                }
+            ]
+        },
+        {
+            "name": "Cardiology (\u0627\u0644\u0642\u0644\u0628)",
+            "patients": [
+                {
+                    "id": 1015,
+                    "name": "Mohamed Kamal",
+                    "age": 68,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1016,
+                    "name": "Hassan Adel",
+                    "age": 15,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1017,
+                    "name": "Kareem El-Sayed",
+                    "age": 46,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1018,
+                    "name": "Ahmed Hassan",
+                    "age": 25,
+                    "medical_record": "High Blood Pressure"
+                },
+                {
+                    "id": 1019,
+                    "name": "Dina Fawzy",
+                    "age": 61,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1020,
+                    "name": "Youssef Ibrahim",
+                    "age": 42,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1021,
+                    "name": "Ahmed Nassar",
+                    "age": 68,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1022,
+                    "name": "Hassan Osama",
+                    "age": 30,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1023,
+                    "name": "Omar Fawzy",
+                    "age": 57,
+                    "medical_record": "Broken Arm"
+                },
+                {
+                    "id": 1024,
+                    "name": "Hassan Ezzat",
+                    "age": 47,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1025,
+                    "name": "Omar El-Sayed",
+                    "age": 33,
+                    "medical_record": "Asthma Attack"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5003,
+                    "name": "Mohamed Ezzat",
+                    "age": 60,
+                    "position": "Resident Doctor"
+                },
+                {
+                    "id": 5004,
+                    "name": "Mahmoud Gaber",
+                    "age": 36,
+                    "position": "Senior Consultant"
+                },
+                {
+                    "id": 5005,
+                    "name": "Dina El-Sayed",
+                    "age": 58,
+                    "position": "Head Nurse"
+                },
+                {
+                    "id": 5006,
+                    "name": "Nour Tarek",
+                    "age": 35,
+                    "position": "Specialist"
+                },
+                {
+                    "id": 5007,
+                    "name": "Fatma Osama",
+                    "age": 55,
+                    "position": "Staff Nurse"
+                }
+            ]
+        },
+        {
+            "name": "Pediatrics (\u0627\u0644\u0623\u0637\u0641\u0627\u0644)",
+            "patients": [
+                {
+                    "id": 1026,
+                    "name": "Ahmed Samy",
+                    "age": 71,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1027,
+                    "name": "Fatma Ezzat",
+                    "age": 8,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1028,
+                    "name": "Aya Ezzat",
+                    "age": 37,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1029,
+                    "name": "Nour Ezzat",
+                    "age": 41,
+                    "medical_record": "High Blood Pressure"
+                },
+                {
+                    "id": 1030,
+                    "name": "Sara Tarek",
+                    "age": 23,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1031,
+                    "name": "Kareem Ezzat",
+                    "age": 14,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1032,
+                    "name": "Sara Gaber",
+                    "age": 32,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1033,
+                    "name": "Nour Ibrahim",
+                    "age": 48,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1034,
+                    "name": "Mahmoud Hassan",
+                    "age": 30,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1035,
+                    "name": "Ahmed Fawzy",
+                    "age": 56,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1036,
+                    "name": "Salma Tarek",
+                    "age": 12,
+                    "medical_record": "Broken Arm"
+                },
+                {
+                    "id": 1037,
+                    "name": "Ahmed Ezzat",
+                    "age": 80,
+                    "medical_record": "Broken Arm"
+                },
+                {
+                    "id": 1038,
+                    "name": "Dina Ezzat",
+                    "age": 62,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1039,
+                    "name": "Ahmed Ibrahim",
+                    "age": 72,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1040,
+                    "name": "Dina Adel",
+                    "age": 63,
+                    "medical_record": "High Blood Pressure"
+                },
+                {
+                    "id": 1041,
+                    "name": "Mahmoud Fawzy",
+                    "age": 51,
+                    "medical_record": "Appendicitis"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5008,
+                    "name": "Nour Kamal",
+                    "age": 49,
+                    "position": "Senior Consultant"
+                },
+                {
+                    "id": 5009,
+                    "name": "Ahmed Ibrahim",
+                    "age": 29,
+                    "position": "Head Nurse"
+                },
+                {
+                    "id": 5010,
+                    "name": "Fatma Fawzy",
+                    "age": 34,
+                    "position": "Specialist"
+                },
+                {
+                    "id": 5011,
+                    "name": "Sara Adel",
+                    "age": 37,
+                    "position": "Senior Consultant"
+                },
+                {
+                    "id": 5012,
+                    "name": "Omar El-Sayed",
+                    "age": 32,
+                    "position": "Staff Nurse"
+                }
+            ]
+        },
+        {
+            "name": "Neurology (\u0627\u0644\u0645\u062e \u0648\u0627\u0644\u0623\u0639\u0635\u0627\u0628)",
+            "patients": [
+                {
+                    "id": 1042,
+                    "name": "Mona Hassan",
+                    "age": 54,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1043,
+                    "name": "Aya Samy",
+                    "age": 41,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1044,
+                    "name": "Youssef Gaber",
+                    "age": 39,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1045,
+                    "name": "Mahmoud Adel",
+                    "age": 30,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1046,
+                    "name": "Nour Adel",
+                    "age": 80,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1047,
+                    "name": "Nour Ibrahim",
+                    "age": 22,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1048,
+                    "name": "Sara Ibrahim",
+                    "age": 5,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1049,
+                    "name": "Ahmed Fawzy",
+                    "age": 22,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1050,
+                    "name": "Salma Fawzy",
+                    "age": 59,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1051,
+                    "name": "Mohamed Tarek",
+                    "age": 45,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1052,
+                    "name": "Dina El-Sayed",
+                    "age": 37,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1053,
+                    "name": "Salma Ibrahim",
+                    "age": 33,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1054,
+                    "name": "Salma Osama",
+                    "age": 39,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1055,
+                    "name": "Sara Hassan",
+                    "age": 24,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1056,
+                    "name": "Nour Ibrahim",
+                    "age": 46,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1057,
+                    "name": "Mona Tarek",
+                    "age": 42,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1058,
+                    "name": "Mahmoud El-Sayed",
+                    "age": 19,
+                    "medical_record": "Diabetes Follow-up"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5013,
+                    "name": "Fatma Nassar",
+                    "age": 47,
+                    "position": "Head Nurse"
+                },
+                {
+                    "id": 5014,
+                    "name": "Ali Samy",
+                    "age": 40,
+                    "position": "Senior Consultant"
+                },
+                {
+                    "id": 5015,
+                    "name": "Mahmoud Osama",
+                    "age": 48,
+                    "position": "Staff Nurse"
+                },
+                {
+                    "id": 5016,
+                    "name": "Mahmoud Nassar",
+                    "age": 41,
+                    "position": "Resident Doctor"
+                }
+            ]
+        },
+        {
+            "name": "Orthopedics (\u0627\u0644\u0639\u0638\u0627\u0645)",
+            "patients": [
+                {
+                    "id": 1059,
+                    "name": "Dina Nassar",
+                    "age": 65,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1060,
+                    "name": "Mahmoud Gaber",
+                    "age": 25,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1061,
+                    "name": "Ali Gaber",
+                    "age": 70,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1062,
+                    "name": "Nour Adel",
+                    "age": 57,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1063,
+                    "name": "Mahmoud El-Sayed",
+                    "age": 24,
+                    "medical_record": "Severe Headache"
+                },
+                {
+                    "id": 1064,
+                    "name": "Omar Hassan",
+                    "age": 31,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1065,
+                    "name": "Omar Ibrahim",
+                    "age": 28,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1066,
+                    "name": "Sara Ezzat",
+                    "age": 31,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1067,
+                    "name": "Ahmed El-Sayed",
+                    "age": 84,
+                    "medical_record": "Fever & Flu"
+                },
+                {
+                    "id": 1068,
+                    "name": "Salma Hassan",
+                    "age": 45,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1069,
+                    "name": "Ahmed Ibrahim",
+                    "age": 5,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1070,
+                    "name": "Dina Nassar",
+                    "age": 38,
+                    "medical_record": "High Blood Pressure"
+                },
+                {
+                    "id": 1071,
+                    "name": "Ahmed Kamal",
+                    "age": 53,
+                    "medical_record": "Minor Burn"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5017,
+                    "name": "Sara Samy",
+                    "age": 37,
+                    "position": "Staff Nurse"
+                },
+                {
+                    "id": 5018,
+                    "name": "Nour Osama",
+                    "age": 47,
+                    "position": "Head Nurse"
+                },
+                {
+                    "id": 5019,
+                    "name": "Mona El-Sayed",
+                    "age": 32,
+                    "position": "Staff Nurse"
+                }
+            ]
+        },
+        {
+            "name": "General Surgery (\u0627\u0644\u062c\u0631\u0627\u062d\u0629)",
+            "patients": [
+                {
+                    "id": 1072,
+                    "name": "Aya Tarek",
+                    "age": 74,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1073,
+                    "name": "Ali Samy",
+                    "age": 15,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1074,
+                    "name": "Salma Ezzat",
+                    "age": 43,
+                    "medical_record": "Appendicitis"
+                },
+                {
+                    "id": 1075,
+                    "name": "Salma Ibrahim",
+                    "age": 16,
+                    "medical_record": "Broken Arm"
+                },
+                {
+                    "id": 1076,
+                    "name": "Mona Ezzat",
+                    "age": 48,
+                    "medical_record": "Asthma Attack"
+                },
+                {
+                    "id": 1077,
+                    "name": "Omar El-Sayed",
+                    "age": 57,
+                    "medical_record": "High Blood Pressure"
+                },
+                {
+                    "id": 1078,
+                    "name": "Ahmed Kamal",
+                    "age": 57,
+                    "medical_record": "Heart Arrhythmia"
+                },
+                {
+                    "id": 1079,
+                    "name": "Salma Ezzat",
+                    "age": 28,
+                    "medical_record": "Chest Pain"
+                },
+                {
+                    "id": 1080,
+                    "name": "Aya El-Sayed",
+                    "age": 76,
+                    "medical_record": "Diabetes Follow-up"
+                },
+                {
+                    "id": 1081,
+                    "name": "Mohamed Hassan",
+                    "age": 65,
+                    "medical_record": "Minor Burn"
+                },
+                {
+                    "id": 1082,
+                    "name": "Hassan Adel",
+                    "age": 72,
+                    "medical_record": "Asthma Attack"
+                }
+            ],
+            "staff": [
+                {
+                    "id": 5020,
+                    "name": "Aya Nassar",
+                    "age": 32,
+                    "position": "Specialist"
+                },
+                {
+                    "id": 5021,
+                    "name": "Aya Ibrahim",
+                    "age": 29,
+                    "position": "Resident Doctor"
+                },
+                {
+                    "id": 5022,
+                    "name": "Ahmed Nassar",
+                    "age": 38,
+                    "position": "Senior Consultant"
+                },
+                {
+                    "id": 5023,
+                    "name": "Dina Hassan",
+                    "age": 37,
+                    "position": "Head Nurse"
+                }
+            ]
+        },
+        {
+            "name": "skin care",
+            "patients": [],
+            "staff": []
+        }
+    ]
+}
